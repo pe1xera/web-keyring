@@ -9,7 +9,7 @@
 
 ## 1. Objetivo
 
-Esta política estabelece as diretrizes básicas de segurança da informação e desenvolvimento seguro que deverão ser seguidas durante a construção, implantação e manutenção da aplicação de gerenciamento de senhas online.
+Esta política estabelece as diretrizes básicas de segurança da informação e desenvolvimento seguro que deverão ser seguidas durante a construção, implantação e manutenção da aplicação de gerenciamento de senhas online, a saber, o Web Keyring.
 
 O objetivo é reduzir riscos de segurança, proteger os dados e secrets armazenados pela aplicação e garantir que controles de segurança sejam considerados durante todo o ciclo de vida de desenvolvimento.
 
