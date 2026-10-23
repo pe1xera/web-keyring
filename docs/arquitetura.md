@@ -10,7 +10,7 @@ Este documento apresenta o design arquitetural da aplicação Web-Keyring. O sis
 
 O sistema adota uma arquitetura monolítica tradicional de três camadas. A escolha prioriza o isolamento de rede do banco de dados, a centralização das regras de controle de acesso no backend e a facilidade de auditoria para cada operação de leitura.
 
-O diagrama abaixo detalha os limites do sistema, a divisão de responsabilidades dentro da camada de API e as rotas de comunicação.
+O diagrama do Mermaid abaixo detalha os limites do sistema, a divisão de responsabilidades dentro da camada de API e as rotas de comunicação.
 
 ```mermaid
 flowchart TD
