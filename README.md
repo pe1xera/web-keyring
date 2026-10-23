@@ -1,4 +1,6 @@
 # Web-Keyring
+<img width="900" height="300" alt="web-keyring-logo-branco" src="https://github.com/user-attachments/assets/93373961-1bbe-4c44-8b09-669fadc356ad" />   
+   
 
 O **Web-Keyring** é uma aplicação web segura projetada para o armazenamento, gestão, versionamento e compartilhamento controlado de segredos corporativos tais como tokens de API, credenciais de banco de dados, certificados e chaves SSH entre equipes de desenvolvimento e infraestrutura.
 
