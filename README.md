@@ -1,7 +1,7 @@
 # Web-Keyring
 <img width="900" height="300" alt="web-keyring-logo-branco" src="https://github.com/user-attachments/assets/93373961-1bbe-4c44-8b09-669fadc356ad" />   
    
-
+   
 O **Web-Keyring** é uma aplicação web segura projetada para o armazenamento, gestão, versionamento e compartilhamento controlado de segredos corporativos tais como tokens de API, credenciais de banco de dados, certificados e chaves SSH entre equipes de desenvolvimento e infraestrutura.
 
 O sistema segue princípios rigorosos de *Security-by-Design*, aplicando criptografia em repouso e em trânsito, autenticação em duas etapas (2FA/TOTP) obrigatória, isolamento de rede, princípio do menor privilégio em containers e trilha de auditoria imutável.
@@ -19,7 +19,8 @@ A aplicação é estruturada em uma arquitetura de três camadas conteinerizada:
 ---
 
 ## 2. Arquitetura
-
+<img width="1200" height="480" alt="web-keyring-arquitetura-camadas" src="https://github.com/user-attachments/assets/aba4230a-6420-4370-8276-2df0315b573c" />   
+   
 O sistema adota o padrão monolítico em três camadas isoladas, centralizando o controle de acesso e regras de negócio na camada de backend para garantir rastreabilidade completa e proteção contra vulnerabilidades de controle de acesso (como IDOR).
 
 Para detalhes sobre o modelo de dados, fluxos de autenticação, diagrama estrutural e políticas de segurança, consulte a documentação dedicada:
